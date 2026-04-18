@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2a02b2bc-654a-4b63-bebb-ae387c8d78b5",
+  "export_job_id": "4b280064-8218-46e2-a874-8e26decdda5e",
   "id_short": 654855,
-  "published_at": "2026-04-14T19:06:49Z",
+  "published_at": "2026-04-18T19:37:51Z",
   "repo_name": "the-hhi-monopoly-index-for-delaware-us-sample-654855",
   "sample_asset_name": "beamstation_654855_restaurants-us-de_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/654855/beamstation_654855_restaurants-us-de_SAMPLE_DIST.csv",
-  "sample_records": 14,
-  "sample_sha256": "1e6ca71a3ce49c1fa3955db40cf121c346bbd5748fead581e51f64e27ac23dde",
-  "sample_size_bytes": 69471,
-  "total_records": 141
+  "sample_records": 12,
+  "sample_sha256": "dedd3fbfd04526554d52cf34ef9aafbb55afd6a9b88aafc291ccac27c5fdfe4b",
+  "sample_size_bytes": 60042,
+  "total_records": 125
 }
