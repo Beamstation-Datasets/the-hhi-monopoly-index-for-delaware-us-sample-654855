@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Delaware, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `654855` |
 | Location | Delaware |
 | Category | Restaurants |
-| Full dataset size | 108 records |
-| Free sample size | 10 records (9.26%) |
-| Last export | 2026-04-22T12:29:29.033845+00:00 |
+| Full dataset size | 119 records |
+| Free sample size | 11 records (9.24%) |
+| Last export | 2026-04-29T13:20:54.457352+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-delaware-us-sample-654855/releases/download/sample-latest/beamstation_654855_restaurants-us-de_SAMPLE_DIST.csv) |
 
 ## What is in this sample
